@@ -1,5 +1,5 @@
-codecatalysts.tech
-Official portfolio website for Codecatalysts - A passionate team of 6 developers building innovative open-source solutions.
+<h1><u>codecatalysts.tech</u></h1>
+<h1>Official portfolio website for Codecatalysts - A passionate team of 6 developers building innovative open-source solutions.</h1>
 
 🌐 Live Site
 https://codecatalysts.tech
